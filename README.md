@@ -24,7 +24,7 @@ All implementations of our model, optimization, evaluation, and experimental res
 
 - `DLR.ipynb` : experimental results for deep learning radiomics (DLR)
 - `DLR_ActivationMap_visualization.ipynb` : feature map visualization of DLR
-- `HCR.ipynb` : experimental results for handcrafted radiomics (HCR) [**_comming soon_**]
+- `Featureselection_RFE_SVM_classifier.ipynb` : experimental results for handcrafted radiomics (HCR)
 
 ## Data Availability
 
